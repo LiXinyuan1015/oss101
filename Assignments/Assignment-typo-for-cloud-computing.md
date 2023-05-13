@@ -1,4 +1,4 @@
-# How To Ask Questions The Smart Way
+# How To Ask Questions The Smart Way a
 
 Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 
