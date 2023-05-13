@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # How To Ask Questions The Smart Way a
+=======
+# How To Ask Questions The Smart Way a b c
+>>>>>>> 6b1a44a (bug3)
 
 Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 
